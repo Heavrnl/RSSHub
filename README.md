@@ -1,6 +1,7 @@
 增加booth
 
 仅对\RSSHub\lib\api\radar\rules下的all.ts和one.ts修改
+\RSSHub\scripts\workflow\build-routes.ts修改
 增加\RSSHublib\routes\booth 文件夹
 
 自行build docker镜像运行
