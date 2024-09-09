@@ -1,3 +1,15 @@
+增加booth
+
+仅对\RSSHub\lib\api\radar\rules下的all.ts和one.ts修改
+增加\RSSHublib\routes\booth 文件夹
+
+自行build docker镜像运行
+
+
+
+
+
+
 <p align="center">
 <img src="https://docs.rsshub.app/img/logo.png" alt="RSSHub" width="100">
 </p>
